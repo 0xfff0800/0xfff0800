@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=200&fontAlignY=40"/>
-  <h1>Welcome! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2J4ejh4MXd5MTdkZHhqZWIydmhkNmY2aGd5cmpjNXlkYTNzdjBqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L3tPCTB4Cw8NfKJ62d/giphy.gif" height=50></h1>
   <div id="badges">
     <a href="https://gists.github.com/0xfff0800">
       <img src="https://img.shields.io/badge/Gists-blue?logo=github">
