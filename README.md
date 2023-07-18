@@ -10,7 +10,7 @@
   <div align="center">
     <p>•   I am currently a university graduate</p>
     <p>•   I am from Saudi Arabia</p>
-    <p>•   I'm fluent in Python, Swift, Flutter and Kivy👨‍💻</p>
+    <p>•   I'm fluent in Python, Swift, Flutter, Kivy👨‍💻</p>
   </div>
 </div>
 <div align="center">
